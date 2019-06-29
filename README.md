@@ -9,7 +9,7 @@
 4. Module Pattern
 5. Local Storage
 
-<br><br><br>
+<br><br>
 
 # How it works
 
@@ -28,7 +28,7 @@ You have the option to update or delete a meal. You can also delete the entire c
 
 Basically, I have few different controllers. I have a Storage controller which persists our data so that it stays after we reload the page or close the browser. An Item controller which deals with data and state. I also have a UI controller which handles everything the user sees. Showing, hiding, getting input values and such and last but not least is the App controller which is the initializer. 
 
-<br><br><br>
+<br><br>
 
 # My notes about the project
 This project was pretty fun to build. It requires more code since I'm not using any libraries or anything. I really like the module pattern design. It is a very powerful and maintainable way of structuring code. I definitely see myself using this pattern more often from now on. Overall, it was a good project and I learned quite a lot.
