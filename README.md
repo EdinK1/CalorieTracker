@@ -9,13 +9,7 @@
 4. Module Pattern
 5. Local Storage
 
-<br><br>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/38442554/60380494-788f2980-99fb-11e9-83ba-4e748a62a9f7.PNG" width="730px" height="400px">
-</p>
-
-<br><br>
+<br><br><br>
 
 # How it works
 
